@@ -62,10 +62,9 @@ Two user-friendly apps — desktop and web — demonstrating currency conversion
 ---
 
 ## 🎥 Demo Video
-      [Click here to watch the Demo Video](https://drive.google.com/file/d/1HrIqhF9pNy57FJxrUvcNCrUvKYI8ybQN/view?usp=sharing)
+      ## 🎥 Demo Video
 
-
-
+[Click here to watch the Demo Video](https://drive.google.com/file/d/1HrIqhF9pNy57FJxrUvcNCrUvKYI8ybQN/view?usp=sharing)
 
 ---
 
