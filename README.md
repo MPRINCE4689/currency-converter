@@ -53,36 +53,17 @@ Two user-friendly apps — desktop and web — demonstrating currency conversion
 ## Project Links
 
 1️⃣ **GitHub Repository:**  
-[https://github.com/MPRINCE4689/currency-converter](https://github.com/MPRINCE4689/currency-converter)
+    https://github.com/MPRINCE4689/currency-converter
 
 2️⃣ **Live Web App (Streamlit):**  
-[https://currency-converter-dlmlaxrvj95ajobk62hlsa.streamlit.app/](https://currency-converter-dlmlaxrvj95ajobk62hlsa.streamlit.app/)
+    https://currency-converter-dlmlaxrvj95ajobk62hlsa.streamlit.app/
 
-3️⃣ **Desktop App (Tkinter) via Google Drive:**  
-[https://drive.google.com/drive/folders/1Wm5bx1AHFc0zK9sJjmykszGXfHZFS5cp?usp=sharing](https://drive.google.com/drive/folders/1Wm5bx1AHFc0zK9sJjmykszGXfHZFS5cp?usp=sharing)
-
----
-
-## How to Use Desktop App (if Python is installed):
-
-1. Copy the Drive link:  
-[https://drive.google.com/drive/folders/1Wm5bx1AHFc0zK9sJjmykszGXfHZFS5cp?usp=sharing](https://drive.google.com/drive/folders/1Wm5bx1AHFc0zK9sJjmykszGXfHZFS5cp?usp=sharing)
-
-2. Open your browser in **Incognito / Private Tab** and paste the link (Press Enter)  
-3. Click **Download All** to save the folder as a ZIP file  
-4. Right-click the downloaded ZIP file → Select **Extract All**  
-5. Open the extracted folder  
-6. Double-click on the file named `run_converter.bat`  
-7. You may see a Windows Protection popup (or similar on Mac)  
-   - Click **More Info**  
-   - Then click **Run Anyway**  
-8. Your Currency Converter will launch successfully
 
 ---
 
 ## 🎥 Demo Video
+      https://drive.google.com/file/d/1HrIqhF9pNy57FJxrUvcNCrUvKYI8ybQN/view?usp=sharing
 
-[https://drive.google.com/file/d/126arUmvpEB7PaNad811YlJ7KzF4XpDl0/view?usp=sharing](https://drive.google.com/file/d/126arUmvpEB7PaNad811YlJ7KzF4XpDl0/view?usp=sharing)
 
 ---
 
